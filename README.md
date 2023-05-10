@@ -1,4 +1,7 @@
 # FLASK_API
+
+This API gives you the average of last five matches played by Dhoni and Sachin.
+
 To deploy this API on Google cloud, include app.yaml file
 
 {
